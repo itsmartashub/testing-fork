@@ -1,7 +1,7 @@
 https://wiki.linuxfoundation.org/networking/netem
 
 
-
+DODAT TEXT ZA GITHUB PROMENU
 
 
 
